@@ -38,6 +38,10 @@
 		{
 			"Name": "MDL",
 			"Enabled": false
+		},
+		{
+			"Name": "AndroidFileServer",
+			"Enabled": false
 		}
 	]
 }

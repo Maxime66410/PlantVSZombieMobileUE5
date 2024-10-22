@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>851166389613-n4m81oabfu5qsplqb0rphl4n1e09bdtn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.851166389613-n4m81oabfu5qsplqb0rphl4n1e09bdtn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCYUMndH1gqEUEKFeUZ-gkaXSiAGDfNGYs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>851166389613</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.pandora.iosdemo</string>
+	<key>PROJECT_ID</key>
+	<string>fir-demo-21fdb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-demo-21fdb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:851166389613:ios:151dafbc87abc71dac2664</string>
+	<key>DATABASE_URL</key>
+	<string>https://fir-demo-21fdb.firebaseio.com</string>
+	<key>ADMOB_APP_ID</key>
+	<string>ca-app-pub-4303170060910641~9167850955</string>
+</dict>
+</plist>
