@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "999322626589",
+    "firebase_url": "https://dragonvsorc-default-rtdb.europe-west1.firebasedatabase.app",
     "project_id": "dragonvsorc",
     "storage_bucket": "dragonvsorc.appspot.com"
   },
