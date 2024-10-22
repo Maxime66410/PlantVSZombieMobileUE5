@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "999322626589",
+    "project_id": "dragonvsorc",
+    "storage_bucket": "dragonvsorc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999322626589:android:7f53ba17d0d74ea3d3b4f4",
+        "android_client_info": {
+          "package_name": "com.CimeArt.PlantsVSZombieBetter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChYVas44doYBVaj7kDCqp2ctqlN0Ob5x4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
